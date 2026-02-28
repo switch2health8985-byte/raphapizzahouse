@@ -69,7 +69,7 @@ export default function Footer() {
               </p>
               <p className="flex items-center gap-2">
                 <i className="ri-phone-fill text-[#FFC300]"></i>
-                <span>8985624073 / 9108162047</span>
+                <span>9108162047 / 8985624703</span>
               </p>
               <p className="flex items-center gap-2">
                 <i className="ri-time-fill text-[#FFC300]"></i>

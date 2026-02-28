@@ -4,7 +4,7 @@ export default function Hero() {
   };
 
   const handleCall = () => {
-    window.location.href = 'tel:8985624073';
+    window.location.href = 'tel:9108162047';
   };
 
   const handleWhatsApp = () => {
@@ -84,8 +84,8 @@ export default function Hero() {
                 <i className="ri-phone-line"></i>
                 Phone Numbers:
               </p>
-              <p className="text-gray-800 font-semibold">8985624073</p>
-              <p className="text-gray-800 font-semibold">9108162047</p>
+              <p className="text-gray-800 font-bold text-xl">9108162047</p>
+              <p className="text-gray-800 font-bold text-xl">8985624703</p>
             </div>
             <div>
               <p className="text-[#8B0000] font-bold mb-2 flex items-center gap-2">

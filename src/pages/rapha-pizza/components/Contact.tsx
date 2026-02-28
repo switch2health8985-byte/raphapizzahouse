@@ -26,11 +26,11 @@ export default function Contact() {
                   <h3 className="text-2xl font-bold text-[#8B0000] mb-3">
                     Call Us
                   </h3>
-                  <a href="tel:8985624073" className="text-gray-700 text-lg hover:text-[#8B0000] transition-colors block mb-2 cursor-pointer">
-                    8985624073
-                  </a>
-                  <a href="tel:9108162047" className="text-gray-700 text-lg hover:text-[#8B0000] transition-colors block cursor-pointer">
+                  <a href="tel:9108162047" className="text-gray-700 text-xl font-bold hover:text-[#8B0000] transition-colors block mb-2 cursor-pointer">
                     9108162047
+                  </a>
+                  <a href="tel:8985624703" className="text-gray-700 text-xl font-bold hover:text-[#8B0000] transition-colors block cursor-pointer">
+                    8985624703
                   </a>
                 </div>
               </div>
